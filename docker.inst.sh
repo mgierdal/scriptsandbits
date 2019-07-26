@@ -7,3 +7,6 @@ sudo systemctl start docker
 sudo docker info
 sudo docker image ls
 sudo docker container ls
+sudo docker --version
+sudo yum install docker-compose -y
+sudo docker-compose --version
